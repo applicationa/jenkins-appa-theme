@@ -1,1 +1,5 @@
 @import url(https://jenkins-contrib-themes.github.io/jenkins-neo-theme/dist/neo-light.css);
+[src$='credentials.png'].icon-xlg {
+  padding-left: 24.48px!important;
+  padding-top: 24.48px!important;
+}
