@@ -54,3 +54,8 @@
   width: 0!important;
   background-size: 100% 100%!important;
 }
+
+pre.console-output .gradle-outcome-success {
+  color: #00ff88;
+  font-weight: bold;
+}
