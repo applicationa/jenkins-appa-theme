@@ -65,6 +65,7 @@ pre.console-output .gradle-outcome-success {
 }
 
 #main-panel form[name="login"] table td {
+  padding: 5px;
   text-align: right;
 }
 
