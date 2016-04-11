@@ -72,4 +72,5 @@ pre.console-output .gradle-outcome-success {
 #main-panel form[name="login"] table td input {
   height: 30px;
   line-height: 20px;
+  padding: 4px 5px;
 }
